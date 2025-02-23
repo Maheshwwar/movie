@@ -1,0 +1,17 @@
+Movie Recommendation System Using Sentiment Analysis From Micro blogging Data
+
+
+Collaborative filtering, content-based filtering,
+recommendation system (RS), sentiment analysis, Twitter.
+
+
+title
+runtime
+genre
+director
+writer
+actors
+production_company
+language
+production_contries
+budget

@@ -1,0 +1,42 @@
+Admin
+
+
+Login,
+View All Users and Authorize,
+Add Movie Tweet Details, 
+View All Movie Tweet Details,
+View All Movie Tweet With its Popularity, 
+View All Movie Tweet Reviewed Details, 
+View Similar User Location, 
+View All Movie Tweet Recommendations, 
+View Positive Sentiment, 
+View Negative Sentiment, 
+View All Users Search History, 
+View Movie Tweet Tweet Popularity Result 
+
+
+User
+
+
+Register and Login,
+View Your Profile, 
+Search Movie Tweet Details, 
+View My Search History, 
+View All Movie Recommends,
+View User Movie Reviews, 
+View Top k Services  
+
+
+Members
+
+Movie Title,Runtime,Genre,Director,
+Writer,Actors,production_company
+Language,Budget,Select Image 
+
+
+
+
+
+
+
+
